@@ -1,8 +1,6 @@
 # Secure Login System
 A simple, beginner-friendly secure login system built using Node.js, Express, SQLite, and bcrypt. It lets users register, log in, and access a protected welcome page, all while keeping passwords safe with hashing.
 
----
-
 ## Demo Video
 Check out the quick demo showing how registering, logging in, and the welcome page work:
 <video src="https://github.com/user-attachments/assets/40ec540e-7bea-4d4b-9a49-c0692855a686" width="100%" controls>
@@ -59,5 +57,5 @@ Check out the quick demo showing how registering, logging in, and the welcome pa
 
 ---
 
-## License
+# License
 This project is licensed under the MIT License.
