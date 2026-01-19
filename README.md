@@ -5,7 +5,8 @@ A simple, beginner-friendly secure login system built using Node.js, Express, SQ
 
 ## Demo Video
 Check out the quick demo showing how registering, logging in, and the welcome page work:
-https://github.com/user-attachments/assets/40ec540e-7bea-4d4b-9a49-c0692855a686
+<video src="https://github.com/user-attachments/assets/40ec540e-7bea-4d4b-9a49-c0692855a686" width="100%" controls>
+</video>
 
 ---
 
