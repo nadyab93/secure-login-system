@@ -26,11 +26,11 @@ Check out the quick demo showing how registering, logging in, and the welcome pa
 ---
 
 ## Getting Started
-- Clone this repo: git clone https://github.com/nadyab93/secure-login-system.git
+- Clone this repo: git clone 
 - Go to the project folder: cd secure-login-system
 - Install dependencies: npm install
 - Start the server: node server.js
-- Open a browser and go to: http://localhost:3000/register.html
+- Open a browser and go to: http://localhost:3000/
 
 ---
 
